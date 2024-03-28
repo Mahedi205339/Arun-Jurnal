@@ -1,9 +1,12 @@
+import Banner from "../../components/Banner/Banner";
+import Navbar from "../../components/Navbar/Navbar";
 
 
 const Home = () => {
     return (
         <div>
-            <h3>This is Home page</h3>
+          <Navbar/>
+          <Banner/>
         </div>
     );
 };
