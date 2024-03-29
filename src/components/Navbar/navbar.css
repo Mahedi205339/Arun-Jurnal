@@ -51,13 +51,14 @@ a {
 
 .nav-text {
 
-    background-image: linear-gradient( 43deg, #41a96a, #0575e6);
+    background-image: linear-gradient(43deg, #41a96a, #0575e6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
 }
-.route-text-bg{
-    background-image: linear-gradient( 43deg, #41a96a, #0575e6);
+
+.route-text-bg {
+    background-image: linear-gradient(43deg, #41a96a, #0575e6);
 }
 
 @media screen and (max-width: 768px) {
