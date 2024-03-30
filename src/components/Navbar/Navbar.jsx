@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom";
+/* eslint-disable react/no-unescaped-entities */
 import { useState } from "react";
 import './navbar.css'
 
@@ -21,40 +21,44 @@ const Navbar = () => {
     };
 
     const navLink = <>
-        <li> <NavLink
-            to="/"
-            className={({ isActive, isPending }) =>
-                isPending ? "pending" : isActive ? "route-text-bg font-semibold px-3 py-2 rounded-lg" : ""
-            }
+        <li> <a
+         className="navlink-a"
+            href="/"
         >
             Home
-        </NavLink>
-        </li>
-        <li> <a
-            href="#about"
-            className={({ isActive, isPending }) =>
-                isPending ? "pending" : isActive ? "route-text-bg font-semibold px-3 py-2 rounded-lg" : ""
-            }
-        >
-            About
         </a>
         </li>
-        <li> <a
+          <li> <a
             href="#courses"
-            className={({ isActive, isPending }) =>
-                isPending ? "pending" : isActive ? "route-text-bg  px-3 py-2 rounded-lg" : ""
-            }
+            className="navlink-a"
         >
             Courses
         </a>
         </li>
+        <li> <a
+            href="#about"
+            className="navlink-a"
+        >
+            About
+        </a>
+        </li>
+        
+        <li> <a
+            href="#contact"
+            className="navlink-a"
+            
+        >
+            Contact Us
+        </a>
+        </li>
+      
     </>
 
     return (
-        <div className="mb-4 w-full fixed z-20 backdrop-blur-sm bg-neutral-800 bg-opacity-20 ">
+        <div className="mb-4 w-full fixed z-20 backdrop-blur-sm bg-neutral-800 bg-opacity-50 ">
             <nav className="nav  max-w-[1500px] mx-auto px-5 lg:px-8 md:px-7">
                 <div className="nav-text">
-                    <h3 className=" font-bold text-xl md:text-3xl">Arun-Journal</h3>
+                    <h3 className=" font-bold text-xl md:text-3xl">Arun's-Journey</h3>
                 </div>
                 <ul className={active}>
                     {navLink}

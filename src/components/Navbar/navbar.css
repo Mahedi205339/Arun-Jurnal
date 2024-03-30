@@ -10,13 +10,21 @@
 } */
 
 
+
+
 li {
     list-style: none;
 }
 
-a {
+.navlink-a {
     text-decoration: none;
     color: rgb(204, 204, 204);
+    height: auto;
+    font-weight: 700;
+    font-size: 20px;
+    background-image: linear-gradient(to right, #41a96a, #0575e6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .nav {
