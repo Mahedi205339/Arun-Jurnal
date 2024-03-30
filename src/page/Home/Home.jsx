@@ -1,4 +1,5 @@
 import Banner from "../../components/Banner/Banner";
+import Contact from "../../components/Contact/Contact";
 import FeaturedCourse from "../../components/Featured/FeaturedCourse";
 import Choose from "../../components/Info/Choose";
 import Navbar from "../../components/Navbar/Navbar";
@@ -15,6 +16,7 @@ const Home = () => {
       <FeaturedCourse/>
        <Courses/>
       <About/>
+      <Contact/>
      
     </div>
   );

@@ -15,7 +15,7 @@ const Courses = () => {
     const allCourse = courses?.filter(item => item?.category == 'regular');
     console.log(allCourse);
     return (
-        <div id="courses" className="min-h-screen max-w-[1500px] mx-auto p-4">
+        <div id="courses" className="min-h-screen max-w-[1500px] mx-auto p-4 ">
             <Title
                 headline={"All Courses"}
                 subHeadline={"Explore Our Courses "}
