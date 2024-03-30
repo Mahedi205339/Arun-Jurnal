@@ -3,108 +3,108 @@
       "id": 1,
       "title": "Foundational Journalism Skills",
       "description": "This course covers the fundamentals of journalism, including news writing, reporting techniques, and journalistic ethics.",
-      "price": "$99",
+      "price": 99,
       "ratings": 4.5,
-      "image": "https://example.com/foundational-journalism.jpg",
+      "image": "https://cdn1.vectorstock.com/i/1000x1000/75/50/journalism-isolated-cartoon-concept-vector-39447550.jpg",
       "category":"regular"
     },
     {
       "id": 2,
       "title": "Investigative Journalism",
       "description": "Focuses on in-depth investigative reporting techniques, including research methods, data analysis, and uncovering corruption or wrongdoing.",
-      "price": "$129",
+      "price": 120,
       "ratings": 4.8,
-      "image": "https://example.com/investigative-journalism.jpg",
+      "image": "https://i.pinimg.com/originals/2b/b9/0b/2bb90b7a09c4064f4667d2d3a53426dc.jpg",
       "category":"regular"
     },
     {
       "id": 3,
       "title": "Digital Journalism and Multimedia Storytelling",
       "description": "Explores the digital landscape of journalism, including multimedia storytelling, social media reporting, and digital publishing platforms.",
-      "price": "$109",
+      "price": 109,
       "ratings": 4.7,
-      "image": "https://example.com/digital-journalism.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyr0HDoUuLQgcow20DLGBlQSB458mpEHg5D8gG70S0Gqeo8_8ZiLZwotXBg28w5rsuFE&usqp=CAU",
       "category":"regular"
     },
     {
       "id": 4,
       "title": "Broadcast Journalism",
       "description": "Covers the essentials of broadcast journalism, including writing for television and radio, on-camera presentation skills, and news production.",
-      "price": "$119",
+      "price": 119,
       "ratings": 4.6,
-      "image": "https://example.com/broadcast-journalism.jpg",
+      "image": "https://c8.alamy.com/comp/PGRW6D/journalism-and-journalist-PGRW6D.jpg",
       "category":"regular"
     },
     {
       "id": 5,
       "title": "Photojournalism",
       "description": "Teaches the art of visual storytelling through photography, including composition, photo editing, and ethical considerations in photojournalism.",
-      "price": "$99",
+      "price": 99,
       "ratings": 4.4,
-      "image": "https://example.com/photojournalism.jpg",
+      "image": "https://media.istockphoto.com/id/1339923165/vector/tv-reporter-filming-a-documentary-vector-cartoon-illustration.jpg?s=612x612&w=0&k=20&c=Z7Hcg_Y5LizCzz9b1lSpMTd2ZE4AThi6lXoQhzpVTgA=",
       "category":"regular"
     },
     {
       "id": 6,
       "title": "Feature Writing and Long-form Journalism",
       "description": "Focuses on crafting compelling feature stories, profiles, and narrative journalism pieces, emphasizing storytelling techniques and structure.",
-      "price": "$109",
+      "price": 109,
       "ratings": 4.6,
-      "image": "https://example.com/feature-writing.jpg",
+      "image": "https://img.freepik.com/premium-vector/journalists_61103-99.jpg",
       "category":"regular"
     },
     {
       "id": 7,
       "title": "International Journalism and Global Reporting",
       "description": "Explores the challenges and opportunities of reporting on international issues, cross-cultural communication, and covering global events.",
-      "price": "$119",
+      "price": 119,
       "ratings": 4.7,
-      "image": "https://example.com/international-journalism.jpg",
+      "image": "https://png.pngtree.com/png-clipart/20230913/original/pngtree-journalist-clipart-bearded-character-holding-papers-and-a-film-camera-cartoon-png-image_11075387.png",
       "category":"regular"
     },
     {
       "id": 8,
       "title": "Opinion Writing and Editorial Journalism",
       "description": "Covers opinion writing, editorial commentary, and persuasive journalism, including the role of opinion pieces in shaping public discourse.",
-      "price": "$99",
+      "price": 99,
       "ratings": 4.5,
-      "image": "https://example.com/opinion-writing.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlKKOKSymXAMiWDuCbK2UjIZn0amBaei8BgIFrcAlzvOeTGNDjLkced2AAt_rkgb1EkJE&usqp=CAU",
       "category":"regular"
     },
     {
       "id": 9,
       "title": "Specialized Reporting Topics",
       "description": "Offers courses on specific topics such as sports journalism, environmental journalism, health reporting, business journalism, or science and technology reporting.",
-      "price": "$129",
+      "price": 129,
       "ratings": 4.8,
-      "image": "https://example.com/specialized-reporting.jpg",
+      "image": "https://img.freepik.com/free-vector/journalists-taking-interview-from-politician_3446-685.jpg",
       "category":"regular"
     },
     {
         "id": 10,
         "title": "Data Journalism and Visualization",
         "description": "Explores the use of data in journalism, including data analysis techniques, visualization tools, and storytelling with data.",
-        "price": "$139",
+        "price": 130,
         "ratings": 4.9,
-        "image": "https://example.com/data-journalism.jpg",
+        "image": "https://c8.alamy.com/comp/2DBT8HJ/news-broadcast-flat-color-vector-illustration-professional-newscaster-newsreader-anchorman-2d-cartoon-character-with-studio-on-background-informat-2DBT8HJ.jpg",
         "category":"featured"
       },
       {
         "id": 11,
         "title": "Ethics in Journalism",
         "description": "Examines ethical dilemmas faced by journalists, including objectivity, fairness, conflicts of interest, and the role of journalism in society.",
-        "price": "$89",
+        "price": 89,
         "ratings": 4.7,
-        "image": "https://example.com/ethics-journalism.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_izU0VGK3ZORkv5kTajN9zQe2HjjwVZHOZ8NzehmIlYlsiAO9zVVc8liBpVVimmdDqww&usqp=CAU",
         "category":"featured"
       },
       {
         "id": 12,
         "title": "Freelance Journalism Masterclass",
         "description": "Provides practical guidance for freelance journalists, including pitching stories, managing clients, and building a successful freelance career.",
-        "price": "$119",
+        "price": 119,
         "ratings": 4.6,
-        "image": "https://example.com/freelance-journalism.jpg",
+        "image": "https://us.123rf.com/450wm/jemastock/jemastock1910/jemastock191053978/132582609-jobs-and-professions-professionals-workers-inside-building-wooden-floor-vector-illustration-graphic.jpg?ver=6",
         "category":"featured"
       }
   ]

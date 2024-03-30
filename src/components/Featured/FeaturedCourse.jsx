@@ -1,8 +1,9 @@
 import { useEffect, useState } from "react";
-import Title from "../../components/Title/Title";
-import CoursesCard from "../../components/Featured/CoursesCard";
+import Title from "../Title/Title";
+import CoursesCard from "./CoursesCard";
 
-const Courses = () => {
+const FeaturedCourse = () => {
+
     const [courses, setCourses] = useState([]);
 
     useEffect(() => {
@@ -12,17 +13,21 @@ const Courses = () => {
     }, [])
 
     // console.log(courses);
-    const allCourse = courses?.filter(item => item?.category == 'regular');
-    console.log(allCourse);
+    const featuredCourse = courses?.filter(item => item?.category == 'featured');
+    console.log(featuredCourse);
+    console.log(featuredCourse);
+
+
+
     return (
-        <div id="courses" className="min-h-screen max-w-[1500px] mx-auto p-4">
+        <div className="min-h-screen max-w-[1500px] mx-auto p-4">
             <Title
-                headline={"All Courses"}
-                subHeadline={"Explore Our Courses "}
+                headline={"Featured Courses"}
+                subHeadline={"Explore Our Featured Courses"}
             />
             <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 my-8 md:my-24">
                 {
-                    allCourse?.map(item => (
+                    featuredCourse?.map(item => (
                         <CoursesCard key={item.id} item={item} />
                     ))
                 }
@@ -31,4 +36,4 @@ const Courses = () => {
     );
 };
 
-export default Courses;
+export default FeaturedCourse;

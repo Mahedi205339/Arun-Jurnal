@@ -30,23 +30,23 @@ const Navbar = () => {
             Home
         </NavLink>
         </li>
-        <li> <NavLink
-            to="/about"
+        <li> <a
+            href="#about"
             className={({ isActive, isPending }) =>
                 isPending ? "pending" : isActive ? "route-text-bg font-semibold px-3 py-2 rounded-lg" : ""
             }
         >
             About
-        </NavLink>
+        </a>
         </li>
-        <li> <NavLink
-            to="/courses"
+        <li> <a
+            href="#courses"
             className={({ isActive, isPending }) =>
                 isPending ? "pending" : isActive ? "route-text-bg  px-3 py-2 rounded-lg" : ""
             }
         >
             Courses
-        </NavLink>
+        </a>
         </li>
     </>
 
