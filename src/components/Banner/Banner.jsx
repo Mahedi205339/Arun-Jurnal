@@ -19,9 +19,11 @@ const Banner = () => {
                             <p className='w-full md:w-3/4 lg:w-1/3 my-4 text-neutral-300'>
                                 This banner conveys a sense of opportunity and excitement, inviting visitors to explore further and enroll in the course. The language emphasizes the value of Mr. Arun's expertise and the practical knowledge students will gain from the course
                             </p>
-                            <button className='button-74 route-text-bg px-3 py-2 shadow-green-600 shadow-2xl my-5 border-green-700'>
-                                Get Courses
-                            </button>
+                            <a href="#courses">
+                                <button className='button-74 route-text-bg px-3 py-2 shadow-green-600 shadow-2xl my-5 border-green-700'>
+                                    Get Courses
+                                </button>
+                            </a>
                         </div>
 
                     </div>
