@@ -1,0 +1,56 @@
+/* .group-date {
+     font-size: 2.25rem;
+     color: gray;
+     padding-right:12px ;
+     padding-left: 12px;
+     font-weight: 700;
+     letter-spacing: 0.1em;
+     
+
+} */
+
+.timeline {
+    border-left-width: 4px;
+    border-image: linear-gradient(to bottom, #41a96a, #0575e6) 1;
+    border-style: solid;
+    margin-left: 12px;
+    margin-top: 12px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.dot {
+    position: absolute;
+    left: -12px;
+    background-color: rgb(31, 31, 197);
+    height: 10px;
+    width: 10px;
+    border-width: 10px;
+    border-color: #1468e6;
+    border-radius: 100%;
+
+}
+
+.timeline-date {
+    font-size: 14px;
+    font-weight: 700;
+    opacity: .4;
+    letter-spacing: 0.1em;
+}
+
+.timeline-title {
+    font-size: 24px;
+    color: gray;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+}
+
+.chose-title {
+
+    background-image: linear-gradient(to right, #41a96a, #0575e6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    margin-bottom: 10px;
+
+}

@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* @layer components {
+    .group-date {
+        @apply text-4xl text-gray-900 px-3 py-4 font-bold tracking-widest
+    }
+
+    .timeline {
+       @apply border-l-4 ml-3 mt-3 py-16 space-y-3
+    }
+} */

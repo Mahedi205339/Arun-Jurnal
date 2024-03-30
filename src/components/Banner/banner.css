@@ -1,0 +1,39 @@
+
+
+  .button-74 {
+    /* background-color: #fbeee0; */
+    border-image: linear-gradient(to bottom, #41a96a, #0575e6) 1;
+    border-style: solid;
+    border-radius: 30px;
+    box-shadow:  linear-gradient(to bottom, #41a96a, #0575e6) 1;
+  
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    color: white;
+  }
+
+.button-74:hover {
+  background-color: #fff;
+}
+
+.button-74:active {
+  box-shadow:  linear-gradient(to bottom, #41a96a, #0575e6) 1;
+  transform: translate(2px, 2px);
+}
+
+@media (min-width: 768px) {
+  .button-74 {
+    min-width: 120px;
+    padding: 0 25px;
+  }
+}
+

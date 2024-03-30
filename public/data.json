@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "title": "Foundational Journalism Skills",
+      "description": "This course covers the fundamentals of journalism, including news writing, reporting techniques, and journalistic ethics.",
+      "price": "$99",
+      "ratings": 4.5,
+      "image": "https://example.com/foundational-journalism.jpg",
+      "category":"regular"
+    },
+    {
+      "id": 2,
+      "title": "Investigative Journalism",
+      "description": "Focuses on in-depth investigative reporting techniques, including research methods, data analysis, and uncovering corruption or wrongdoing.",
+      "price": "$129",
+      "ratings": 4.8,
+      "image": "https://example.com/investigative-journalism.jpg",
+      "category":"regular"
+    },
+    {
+      "id": 3,
+      "title": "Digital Journalism and Multimedia Storytelling",
+      "description": "Explores the digital landscape of journalism, including multimedia storytelling, social media reporting, and digital publishing platforms.",
+      "price": "$109",
+      "ratings": 4.7,
+      "image": "https://example.com/digital-journalism.jpg",
+      "category":"regular"
+    },
+    {
+      "id": 4,
+      "title": "Broadcast Journalism",
+      "description": "Covers the essentials of broadcast journalism, including writing for television and radio, on-camera presentation skills, and news production.",
+      "price": "$119",
+      "ratings": 4.6,
+      "image": "https://example.com/broadcast-journalism.jpg",
+      "category":"regular"
+    },
+    {
+      "id": 5,
+      "title": "Photojournalism",
+      "description": "Teaches the art of visual storytelling through photography, including composition, photo editing, and ethical considerations in photojournalism.",
+      "price": "$99",
+      "ratings": 4.4,
+      "image": "https://example.com/photojournalism.jpg",
+      "category":"regular"
+    },
+    {
+      "id": 6,
+      "title": "Feature Writing and Long-form Journalism",
+      "description": "Focuses on crafting compelling feature stories, profiles, and narrative journalism pieces, emphasizing storytelling techniques and structure.",
+      "price": "$109",
+      "ratings": 4.6,
+      "image": "https://example.com/feature-writing.jpg",
+      "category":"regular"
+    },
+    {
+      "id": 7,
+      "title": "International Journalism and Global Reporting",
+      "description": "Explores the challenges and opportunities of reporting on international issues, cross-cultural communication, and covering global events.",
+      "price": "$119",
+      "ratings": 4.7,
+      "image": "https://example.com/international-journalism.jpg",
+      "category":"regular"
+    },
+    {
+      "id": 8,
+      "title": "Opinion Writing and Editorial Journalism",
+      "description": "Covers opinion writing, editorial commentary, and persuasive journalism, including the role of opinion pieces in shaping public discourse.",
+      "price": "$99",
+      "ratings": 4.5,
+      "image": "https://example.com/opinion-writing.jpg",
+      "category":"regular"
+    },
+    {
+      "id": 9,
+      "title": "Specialized Reporting Topics",
+      "description": "Offers courses on specific topics such as sports journalism, environmental journalism, health reporting, business journalism, or science and technology reporting.",
+      "price": "$129",
+      "ratings": 4.8,
+      "image": "https://example.com/specialized-reporting.jpg",
+      "category":"regular"
+    },
+    {
+        "id": 10,
+        "title": "Data Journalism and Visualization",
+        "description": "Explores the use of data in journalism, including data analysis techniques, visualization tools, and storytelling with data.",
+        "price": "$139",
+        "ratings": 4.9,
+        "image": "https://example.com/data-journalism.jpg",
+        "category":"featured"
+      },
+      {
+        "id": 11,
+        "title": "Ethics in Journalism",
+        "description": "Examines ethical dilemmas faced by journalists, including objectivity, fairness, conflicts of interest, and the role of journalism in society.",
+        "price": "$89",
+        "ratings": 4.7,
+        "image": "https://example.com/ethics-journalism.jpg",
+        "category":"featured"
+      },
+      {
+        "id": 12,
+        "title": "Freelance Journalism Masterclass",
+        "description": "Provides practical guidance for freelance journalists, including pitching stories, managing clients, and building a successful freelance career.",
+        "price": "$119",
+        "ratings": 4.6,
+        "image": "https://example.com/freelance-journalism.jpg",
+        "category":"featured"
+      }
+  ]
+  
